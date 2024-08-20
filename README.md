@@ -21,6 +21,8 @@ MATLAB version should be R2024a and later (Tested in R2024a)
   [1]  F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, and G. Monfardini. The graph neural network model. IEEE
 Transactions on Neural Networks, 20(1):61–80, 2009.
 
+## **License**
+The license is available in license.txt file in this GitHub repository.
 
 ## Author:
 ![Image of MATLAB](http://www.mathworks.com/includes_content/nextgen/images/bg_header_mwlogo_notag.jpg)
